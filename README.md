@@ -4,12 +4,7 @@
 
 A REST API project built with Go
 
-[![Go](https://go.dev/)](https://go.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 </div>
-
-> ⚠️ Empty Project — This repository is currently empty and reserved for a future Go-based REST API.
 
 ***
 
